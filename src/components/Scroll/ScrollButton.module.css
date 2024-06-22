@@ -1,0 +1,35 @@
+.floatingButton {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 100%;
+    cursor: pointer;
+    z-index: 1000;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scrollUpIcon {
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (max-width: 830px) {
+    .floatingButton {
+        width: 50px;
+        height: 50px;
+    }
+
+    .scrollUpIcon {
+        width: 100%;
+        height: 100%;
+    }
+}
