@@ -1,0 +1,51 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
+    "title": ".Net",
+    "imageSrc": "skills/net.png"
+  },
+  {
+    "title": "WPF",
+    "imageSrc": "skills/wpf.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Android",
+    "imageSrc": "skills/androstu.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "OracleDB",
+    "imageSrc": "skills/oracledb.png"
+  },
+  {
+    "title": "MariaDB",
+    "imageSrc": "skills/mariadb.png"
+  }
+  
+]
