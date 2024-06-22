@@ -108,4 +108,8 @@
   .content {
     align-items: center;
   }
+
+  .title {
+    font-size: 40px;
+  }
 }
