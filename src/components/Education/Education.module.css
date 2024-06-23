@@ -17,14 +17,15 @@
 }
 
 .content {
-    display: flex;
+    /* display: flex; */
+    margin-left: 40px; /* additional. delete this if wanna activate "display : flex;" */
     flex-direction: row;
     justify-content: space-evenly;
     margin-top: 14px;
 }
 
 .education {
-    width: 45%;
+    width: 90%; /* it was 45% when the ".content.display : flex;" */
     display: flex;
     flex-direction: column;
     gap: 40px;
