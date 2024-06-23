@@ -77,6 +77,8 @@
         flex-direction: column;
         align-items: center;
         gap: 34px;
+        display: flex; /* this is added because ".content.display" above is not flex */
+        margin-left: 0px; /* this is added because ".content.margin-left" above is too far */
     }
 
     .skills {
