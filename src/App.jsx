@@ -7,6 +7,7 @@ import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import ScrollButton from './components/Scroll/ScrollButton';
+import { Education } from './components/Education/Education';
 
 function App() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -33,6 +34,7 @@ function App() {
       <Navbar />
       <Hero />
       <About />
+      <Education />
       <Experience />
       {/* <Projects /> */}
       <Contact />

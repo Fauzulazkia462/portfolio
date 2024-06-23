@@ -4,7 +4,7 @@
     "organisation": "LG CNS Indonesia",
     "startDate": "Apr, 2024",
     "endDate": "Present",
-    "experiences": ["To develop new systems", "To add new features to the existing system"],
+    "experiences": ["To develop new systems", "To add new features to the existing systems"],
     "imageSrc": "history/lg.png"
   },
   {
@@ -12,7 +12,7 @@
     "organisation": "PT. Infotech Solutions",
     "startDate": "Nov, 2023",
     "endDate": "Apr, 2024",
-    "experiences": ["To add new features to the existing system", "To fix bugs in the existing system"],
+    "experiences": ["To add new features to the existing systems", "To fix bugs in the existing systems"],
     "imageSrc": "history/infotech.png"
   },
   {
@@ -27,7 +27,7 @@
     "role": "Full Stack Web Developer",
     "organisation": "Pemerintah Kabupaten Pidie",
     "startDate": "Jun, 2023",
-    "endDate": "Okt, 2023",
+    "endDate": "Oct, 2023",
     "experiences": ["To develop a new system"],
     "imageSrc": "history/pidie.png"
   },
